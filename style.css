@@ -1,9 +1,16 @@
-#topHeader {
+body {
+	background:darkGrey;
 	
 }
 
+#topHeader {
+	width: 90%;
+}
+
 #topHeaderText {
-	font-family: Arial; <!-- Change later -->
+	font-family: Arial; //change later
+	color: white;
+	
 }
 
 #topHeaderImage {
