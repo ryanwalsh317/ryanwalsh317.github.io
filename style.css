@@ -1,5 +1,5 @@
 body {
-	background-image:radial-gradient(grey, darkGrey, black);
+	background-image:radial-gradient(circle, darkGrey 15%, black 85%);
 	
 }
 
