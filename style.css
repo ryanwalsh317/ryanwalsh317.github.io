@@ -1,34 +1,59 @@
 body {
-	background-image:radial-gradient(circle, darkGrey 15%, black 85%);
+	background-image:linear-gradient(to right, #050505, #0F0F0F);
 	
 }
 
 #topHeader {
 	width: 90%;
+	margin: auto;
+	position: relative;
+	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+	padding: 1%;
+	border: 2px solid White;
+	border-radius: 25px;
 }
 
 #topHeaderText {
-	font-family: Arial; //change later
+	font-family: Arial;
 	color: white;
+	text-align: center;
 	
 }
 
-#topHeaderImage {
-	
+#topHeaderLogo {
+    width: 12.5%;
+	height: 12.5%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 #navbar {
   overflow: hidden;
-  background-color: #333;
+  background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+  position: relative;
+  border: 2px solid White;
+  border-radius: 25px;
+  width: 90%;
+  margin: auto;
 }
 
 #navbar a {
   float: left;
-  display: block;
-  color: #f2f2f2;
+  display: flex;
   text-align: center;
-  padding: 14px;
   text-decoration: none;
+  color: white;
+  border-right: 1px solid White;
+  padding-left: 6.7%;
+  padding-right: 6.7%;
+  padding-bottom: 2.5%;
+  padding-top: 2.5%
+}
+
+
+#navbar a:hover {
+	background-color: #6F6F6F;
 }
 
 /* Page content */
