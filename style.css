@@ -1,5 +1,5 @@
 body {
-	background-image:linear-gradient(to right, #050505, #0F0F0F);
+	background-image: url("background_image.gif");
 	
 }
 
@@ -54,6 +54,22 @@ body {
 
 #navbar a:hover {
 	background-color: #6F6F6F;
+}
+
+#splitNew {
+	display: inline-block;
+	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+	margin: auto;
+	position: relative;
+	width: 45%;
+}
+
+#splitOld {
+	display: inline-block;
+	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+	margin: auto;
+	position: relative;
+	width: 45%;
 }
 
 /* Page content */
