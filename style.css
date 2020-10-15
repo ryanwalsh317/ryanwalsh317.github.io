@@ -32,7 +32,7 @@ body {
   position: relative;
   border: 2px solid White;
   border-radius: 25px;
-  width: 90%;
+  width: 95%;
   margin: auto;
 }
 
@@ -46,8 +46,8 @@ body {
   border-right: 1px solid White;
   margin: auto;
   width:19.94%;
-  padding-bottom: 2.5%;
-  padding-top: 2.5%
+  padding-bottom: 1%;
+  padding-top: 1%
 }
 
 
