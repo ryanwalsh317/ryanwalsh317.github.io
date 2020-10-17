@@ -45,7 +45,7 @@ body {
   color: white;
   border-right: 1px solid White;
   margin: auto;
-  width:19.94%;
+  width:19.9%;
   padding-bottom: 1%;
   padding-top: 1%
 }
@@ -55,19 +55,44 @@ body {
 	background-color: #6F6F6F;
 }
 
-#splitNew {
+.splitArticles {
 	display: inline-block;
 	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
 	position: relative;
 	width: 45%;
+	margin: auto;
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px LimeGreen; 
+	border: 2px solid White;
 }
 
-#splitOld {
-	display: inline-block;
-	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+#splitHouser {
+	margin: auto;
 	position: relative;
-	width: 45%;
+	text-align: center;
 }
+
+.imageArticles {
+    width: 25%;
+	height: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.linkButton {
+	margin: auto;
+	position: relative;
+	text-align: center;
+	width: 50%;
+	background-image: linear-gradient(to right, LimeGreen, Green);
+	color: white;
+	text-decoration: none;
+	border: 2px solid LimeGreen;
+	border-radius: 25px;
+}
+
 
 /* Page content */
 .content {
