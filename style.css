@@ -82,6 +82,7 @@ body {
 }
 
 .linkButton {
+	overflow: hidden;
 	margin: auto;
 	position: relative;
 	text-align: center;
@@ -93,6 +94,20 @@ body {
 	border-radius: 25px;
 }
 
+.splitArticles a :hover {
+	background-color: #0BE300;
+}
+
+#websiteDescription {
+	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
+	border: 2px solid White;
+	margin: auto;
+	position: relative;
+	text-align: center;
+	width: 90%;
+	color: white;
+	text-shadow: 2px 2px LimeGreen;
+}
 
 /* Page content */
 .content {
