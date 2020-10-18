@@ -109,19 +109,39 @@ body {
 	text-shadow: 2px 2px LimeGreen;
 }
 
-/* Page content */
-.content {
-  padding: 16px;
+.footerColumn {
+	float: left;
+	width: 50%;
 }
 
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
+#footer:after {
+	content: "";
+	display: table;
+	clear: both;
 }
 
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 60px;
+#footer {
+	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
+	border: 2px solid White;
+	margin: auto;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	text-shadow: 2px 2px LimeGreen;
+	padding: 1%;
+}
+
+#footerHover1 :hover {
+	color: Grey;
+	text-shadow: 2px 2px Green;
+}
+
+#footerHover2 :hover {
+	color: Grey;
+	text-shadow: 2px 2px Green;
+}
+
+#footerHover3 :hover {
+	color: Grey;
+	text-shadow: 2px 2px Green;
 }
