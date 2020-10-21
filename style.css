@@ -94,9 +94,6 @@ body {
 	border-radius: 25px;
 }
 
-.splitArticles a :hover {
-	background-color: #0BE300;
-}
 
 #websiteDescription {
 	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
