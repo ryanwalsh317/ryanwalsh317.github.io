@@ -26,33 +26,9 @@ body {
 	display: block;
 }
 
-#navbar {
-  overflow: hidden;
-  background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
-  position: relative;
-  border: 2px solid White;
-  border-radius: 25px;
-  width: 95%;
-  margin: auto;
-}
-
-#navbar a {
-  float: left;
-  display: block;
-  text-align: center;
-  text-decoration: none;
-  text-shadow: 2px 2px LimeGreen; 
-  color: white;
-  border-right: 1px solid White;
-  margin: auto;
-  width:19.9%;
-  padding-bottom: 1%;
-  padding-top: 1%
-}
-
-
-#navbar a:hover {
-	background-color: #6F6F6F;
+.rounded-custom {
+	border-radius:25px;
+	border: 2px solid White;
 }
 
 .splitArticles {
