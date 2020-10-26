@@ -53,20 +53,6 @@ body {
 	width: 90%;
 }
 
-.linkButton {
-	overflow: hidden;
-	margin: auto;
-	position: relative;
-	text-align: center;
-	width: 50%;
-	background-image: linear-gradient(to right, LimeGreen, Green);
-	color: white;
-	text-decoration: none;
-	border: 2px solid LimeGreen;
-	border-radius: 25px;
-}
-
-
 #websiteDescription {
 	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
 	border: 2px solid White;
