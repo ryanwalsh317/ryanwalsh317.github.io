@@ -86,18 +86,3 @@ body {
 	text-shadow: 2px 2px LimeGreen;
 	padding: 1%;
 }
-
-#footerHover1 :hover {
-	color: Grey;
-	text-shadow: 2px 2px Green;
-}
-
-#footerHover2 :hover {
-	color: Grey;
-	text-shadow: 2px 2px Green;
-}
-
-#footerHover3 :hover {
-	color: Grey;
-	text-shadow: 2px 2px Green;
-}
