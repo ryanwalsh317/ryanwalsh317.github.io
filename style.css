@@ -65,24 +65,19 @@ body {
 	padding: 1%;
 }
 
-.footerColumn {
-	float: left;
-	width: 50%;
-}
-
-#footer:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-
-#footer {
+#footerCustom {
 	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
 	border: 2px solid White;
-	margin: auto;
-	text-align: center;
 	color: white;
 	text-decoration: none;
 	text-shadow: 2px 2px LimeGreen;
 	padding: 1%;
+}
+
+#footerCustomCopyright {
+	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
+	border: 2px solid White;
+	color: white;
+	text-decoration: none;
+	text-shadow: 2px 2px LimeGreen;
 }
