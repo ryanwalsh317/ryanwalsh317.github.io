@@ -1,3 +1,8 @@
+img {
+	background-color: transparent;
+	border: none;
+}
+
 body {
 	background-image: url("background_image.gif");
 	
@@ -32,7 +37,7 @@ body {
 	text-shadow: 2px 2px LimeGreen; 
 }
 
-.splitArticles {
+.splitArticlesHomepage {
 	display: inline-block;
 	margin: auto;
 	position: relative;
@@ -51,6 +56,10 @@ body {
 	position: relative;
 	text-align: center;
 	width: 90%;
+}
+
+.articlesCustom {
+
 }
 
 #websiteDescription {
