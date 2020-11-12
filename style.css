@@ -58,7 +58,13 @@ body {
 	width: 90%;
 }
 
-.articlesCustom {
+.articleCustom {
+	display: inline-block;
+	margin: auto;
+	position: relative;
+	width: 45%;
+	padding: 1%;
+	margin: 1%;
 	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
 	color: white;
 	text-align: center;
