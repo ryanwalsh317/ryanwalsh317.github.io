@@ -16,7 +16,7 @@ body {
 	border: 2px solid White;
 }
 
-#topHeaderText {
+.topTitleText {
 	font-family: Arial;
 	color: white;
 	text-align: center;
