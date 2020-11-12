@@ -59,7 +59,11 @@ body {
 }
 
 .articlesCustom {
-
+	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px LimeGreen; 
+	border: 2px solid White;
 }
 
 #websiteDescription {
