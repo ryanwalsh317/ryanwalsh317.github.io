@@ -9,6 +9,7 @@ body {
 }
 
 #topHeader {
+	padding: 1%;
 	width: 100%;
 	margin: auto;
 	position: relative;
@@ -59,9 +60,8 @@ body {
 }
 
 .articleCustom {
-	width: 90%;
-	padding: 1%;
 	margin: 1%;
+	padding: 1%;
 	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
 	color: white;
 	text-shadow: 2px 2px LimeGreen; 
