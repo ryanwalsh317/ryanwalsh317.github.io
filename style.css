@@ -68,6 +68,15 @@ body {
 	border: 2px solid White;
 }
 
+.archiveCustom {
+	margin: 1%;
+	padding: 1%;
+	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
+	color: white;
+	text-shadow: 2px 2px LimeGreen; 
+	border: 2px solid White;
+}
+
 #websiteDescription {
 	background-image: linear-gradient(to right, #2F2F2F, #4F4F4F);
 	border: 2px solid White;
