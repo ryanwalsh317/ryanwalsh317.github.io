@@ -1,6 +1,5 @@
 img {
 	background-color: transparent;
-	border: none;
 	max-height: 100%;
 	max-width: 100%;
 	height: auto;
@@ -9,6 +8,25 @@ img {
 body {
 	background-image: url("background_image.gif");
 	
+}
+
+.imgCustomTall {
+	height: 300px;
+	width: auto;
+	border: 2px solid Black;
+	box-shadow: 7.5px 7.5px LimeGreen;
+}
+
+.imgCustomWide {
+	height: auto;
+	width: 400px;
+	border: 2px solid Black;
+	box-shadow: 7.5px 7.5px LimeGreen;
+}
+
+.imgCustomArticleImage {
+	height: auto;
+	width: 350px;
 }
 
 #topHeader {
