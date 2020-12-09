@@ -29,6 +29,11 @@ body {
 	width: 350px;
 }
 
+.imgCustomSplitHomepage {
+	height: 200px;
+	width: 200px;
+}
+
 #topHeader {
 	padding: 1%;
 	width: 100%;
