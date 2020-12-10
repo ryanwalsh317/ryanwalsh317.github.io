@@ -29,9 +29,14 @@ body {
 	width: 350px;
 }
 
-.imgCustomSplitHomepage {
+.imgCustomSplitHomepageSquare {
 	height: 200px;
 	width: 200px;
+}
+
+.imgCustomSplitHomepageWide {
+	height: auto;
+	width: 350px;
 }
 
 #topHeader {
