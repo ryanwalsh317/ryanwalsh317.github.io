@@ -10,6 +10,11 @@ body {
 	
 }
 
+.caption {
+	font-size: 14px;
+	text-shadow: none;
+}
+
 .imgCustomTall {
 	height: 300px;
 	width: auto;
