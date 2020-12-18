@@ -44,6 +44,11 @@ body {
 	width: 350px;
 }
 
+.imgCustomArticleArchive {
+	height: 150px;
+	width: auto;
+}
+
 #topHeader {
 	padding: 1%;
 	width: 100%;
