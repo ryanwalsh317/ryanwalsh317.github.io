@@ -46,7 +46,16 @@ body {
 
 .imgCustomArticleArchive {
 	height: 150px;
-	width: auto;
+	width: 150px;
+}
+
+.imgCustomArticleArchiveCropped {
+	height: 150px;
+	width: 150px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	object-fit: cover;
 }
 
 #topHeader {
