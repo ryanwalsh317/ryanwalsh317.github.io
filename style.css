@@ -34,22 +34,16 @@ body {
 	width: 350px;
 }
 
-.imgCustomSplitHomepageSquare {
-	height: 200px;
-	width: 200px;
-}
-
-.imgCustomSplitHomepageWide {
-	height: auto;
-	width: 350px;
+.imgCustomSplitHomepage {
+	height: 250px;
+	width: 250px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	object-fit: cover;
 }
 
 .imgCustomArticleArchive {
-	height: 150px;
-	width: 150px;
-}
-
-.imgCustomArticleArchiveCropped {
 	height: 150px;
 	width: 150px;
 	background-position: center center;
