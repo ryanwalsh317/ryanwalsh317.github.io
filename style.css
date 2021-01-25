@@ -10,6 +10,16 @@ body {
 	
 }
 
+.accordianContainer {
+	border: 2px solid White;
+	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+}
+
+.panelCustom {
+	color: white;
+	text-shadow: 2px 2px LimeGreen;
+}
+
 .caption {
 	font-size: 14px;
 	text-shadow: none;
