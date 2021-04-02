@@ -62,12 +62,10 @@ body {
 	object-fit: cover;
 }
 
-#topHeader {
-	padding: 1%;
-	width: 100%;
-	margin: auto;
-	position: relative;
+.customText {
+	color: white;
 	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+	text-shadow: 2px 2px LimeGreen;
 	border: 2px solid White;
 }
 
@@ -93,24 +91,12 @@ body {
 }
 
 .splitArticlesHomepage {
-	display: inline-block;
-	margin: auto;
-	position: relative;
-	width: 45%;
-	padding: 1%;
-	margin: 1%;
 	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
 	color: white;
 	text-align: center;
 	text-shadow: 2px 2px LimeGreen; 
 	border: 2px solid White;
-}
-
-.splitHouser {
-	margin: auto;
-	position: relative;
-	text-align: center;
-	width: 90%;
+	width: 100%;
 }
 
 .articleCustom {
