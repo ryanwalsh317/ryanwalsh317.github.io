@@ -42,6 +42,8 @@ body {
 .imgCustomArticleImage {
 	height: auto;
 	width: 350px;
+	border: 2px solid Black;
+	box-shadow: 7.5px 7.5px LimeGreen;
 }
 
 .imgCustomSplitHomepage {
@@ -74,6 +76,13 @@ body {
 	color: white;
 	text-align: center;
 	text-shadow: 2px 2px LimeGreen; 
+}
+
+#topHeader {
+	color: white;
+	background-image:linear-gradient(to right, #2F2F2F, #4F4F4F);
+	text-shadow: 2px 2px LimeGreen;
+	border: 2px solid White;
 }
 
 #topHeaderLogo {
